@@ -3,5 +3,19 @@ li.flashy {
   font-style: italic; 
 }
 .important {
-color: purple;
+  color: purple;
+}
+.Days {
+  color: yellow;
+}
+.hours {
+    color: green;
+}
+img {
+  float: left;
+}
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: blue
 }

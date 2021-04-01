@@ -15,7 +15,11 @@ img {
   float: left;
 }
 .sidebar {
-  width: 30%;
+  width: 10%;
   float: left;
   background-color: blue
+}
+.column {
+  width: 150px;
+  float: right;
 }
